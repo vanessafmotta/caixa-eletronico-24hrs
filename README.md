@@ -1,0 +1,2 @@
+# caixa-eletronico-24hrs
+Este trabalho consiste em desenvolver uma  aplicação Winforms COMPLETA (em C#) que consiga simular uma CAIXA ELETRÔNICO, onde o informa o valor a ser sacado e o sistema deverá escolher a quantidade de notas de cada valor a fornecer.  Este caixa trabalha com notas de 2, 5, 10, 20, 50 e 100. Só existem DOIS valores impossíveis de serem sacados: 1 e 3 reais. QUALQUER outro valor, NESTE CAIXA, pode ser sacado. Atividade proposta pelo professor Prof. Thiago G. Traue, matéria de programação visual com C# da Universidade Nove de julho.
